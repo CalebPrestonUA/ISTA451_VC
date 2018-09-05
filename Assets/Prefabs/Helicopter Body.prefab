@@ -23,7 +23,7 @@ GameObject:
   - component: {fileID: 23006598104509250}
   - component: {fileID: 136220091303402502}
   m_Layer: 0
-  m_Name: Capsule
+  m_Name: Helicopter Body
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
